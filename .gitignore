@@ -1,6 +1,0 @@
-# Python cache
-__pycache__/
-
-# Specific files to ignore
-PnL_Analysis - Copy.py
-CFS/1.Overview.py

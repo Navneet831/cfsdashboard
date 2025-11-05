@@ -9,7 +9,7 @@ warnings.filterwarnings('ignore')
 # CONFIGURATION VARIABLES
 # =============================================================================
 # Update this path to your actual file location
-FILE_PATH = r"C:\Users\hp\OneDrive\Desktop\Script\OPL\Base data\OPL CFS.xlsx"
+FILE_PATH = "https://raw.githubusercontent.com/Navneet831/CFSDashboard/main/Base%20data/OPL%20CFS.xlsx"
 CCC_SHEET = "CCC"
 CRORE_CONVERSION = 10000000
 BANK_LIMITS = {
